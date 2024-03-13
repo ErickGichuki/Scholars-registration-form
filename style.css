@@ -70,13 +70,13 @@ button{
 border-radius: 10px;
 height: 30px;
 width: 80%;
-padding: px;
+padding: 1px;
 }
 select{
     height: 30px;
     width: 80%;
     border-radius: 10px;
-    padding-top: 10px;
+    padding-left: 160px;
 }
 .copyright{
     text-align: center;
@@ -84,4 +84,5 @@ select{
 }
 .selection{
     padding-left:20px;
+    margin-top: 13px;
 }
