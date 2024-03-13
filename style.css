@@ -30,12 +30,12 @@ body{
 
 }
 .text{
-    width:40%;
-    padding: 4px;
+    width:20%;
+    padding: 3px;
     color:#fff;
     background-color: rgb(154, 23, 23);
     margin-left:80px ;
-    margin-top: 1px;
+    margin-top: 8px;
 }
 .checkbox{
     padding: 9px;
