@@ -31,7 +31,7 @@ body{
 }
 .text{
     width:40%;
-    padding: 4px;
+    padding: 2px;
     color:#fff;
     background-color: rgb(154, 23, 23);
     margin-left:80px ;
@@ -61,7 +61,7 @@ legend{
     width: 100%;
 }
 button{
-    border-radius: 27px;
+    border-radius: 10px;
 }
 
 .fname, .lname, .tele, .church{
