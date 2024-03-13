@@ -30,14 +30,12 @@ body{
 
 }
 .text{
-    font-weight: 500;
-    width:100% ;
-    letter-spacing: 1px;
-    height: 100%;
-    padding: 14px;
-    outline: none;
+    width:30%;
+    padding: 10px;
     color:#fff;
     background-color: rgb(154, 23, 23);
+    margin-left:190px ;
+    margin-top: 25px;
 }
 .checkbox{
     padding: 9px;
@@ -82,6 +80,8 @@ select{
 }
 .copyright{
     text-align: center;
-    padding: 143px;
+    padding: 10px
 }
-
+.selection{
+    padding-left:20px;
+}
